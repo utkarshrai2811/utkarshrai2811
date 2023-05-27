@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Rai</h1>
-<h3 align="center">A highly driven cybersecurity professional with expertise in VAPT, endpoint security, and cloud security (AWS, GCP, Azure). Dedicated to continuous learning through home lab projects, certifications, LinkedIn connections, and CTF platforms. Passionate about staying updated with industry trends and emerging technologies to provide advanced security solutions.</h3>
+<h3 align="left">A highly driven cybersecurity professional with expertise in VAPT, endpoint security, and cloud security (AWS, GCP, Azure).</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshrai2811" alt="utkarshrai2811" /></a> </p>
 

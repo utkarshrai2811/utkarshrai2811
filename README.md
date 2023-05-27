@@ -13,3 +13,6 @@
 <a href="https://linkedin.com/in/utkarshrai28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarshrai28" height="30" width="40" /></a>
 <a href="https://medium.com/@utkarshrai28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@utkarshrai28" height="30" width="40" /></a>
 </p>
+
+![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
+<p align="left">Stolen from @hakluke :p </p>
